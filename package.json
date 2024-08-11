@@ -1,0 +1,26 @@
+{
+  "name": "avi-currency-converter",
+  "version": "1.0.0",
+  "description": "An npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avinash730/avi-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Avinash Rai",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Avinash730/avi-currency-converter/issues"
+  },
+  "homepage": "https://github.com/Avinash730/avi-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
